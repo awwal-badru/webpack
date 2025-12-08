@@ -13,7 +13,7 @@
     "acorn-import-attributes": "^1.9.5",
     "browserslist": "^4.24.0",
     "chrome-trace-event": "^1.0.2",
-    "enhanced-resolve": "^5.17.1",
+    "enhanced-resolve": "^5.18.3",
     "es-module-lexer": "^1.2.1",
     "eslint-scope": "5.1.1",
     "events": "^3.2.0",
